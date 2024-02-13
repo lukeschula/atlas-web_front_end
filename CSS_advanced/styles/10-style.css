@@ -57,4 +57,5 @@ a {
     --line-height-base: 1.5;
     --line-height-big: 1.8;
     --section-header-align: center;
+    --section-tagline-transform: uppercase;
 }
