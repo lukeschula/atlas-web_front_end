@@ -6,7 +6,7 @@ $classColor: #FF0000;
 
 body {
     color: $bodyColor;
-    body > .red {
+    > .red {
         color: $classColor;
     }
 }
