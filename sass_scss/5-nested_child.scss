@@ -1,0 +1,12 @@
+// Assigns Text color #3D3D3D to elements inside body tags
+// Assigns Text color #FF0000 to any elements of class .red that are the first children of the body
+
+$bodyColor:  #3D3D3D;
+$classColor: #FF0000;
+
+body {
+    color: $bodyColor;
+    body > .red {
+        color: $classColor;
+    }
+}
