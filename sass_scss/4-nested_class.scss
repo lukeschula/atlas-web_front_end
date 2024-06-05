@@ -6,7 +6,7 @@ $secondColor: #FF0000;
 
 body {
     color: $textColor;
-    body .red {
+    .red {
         color: $secondColor;
     }
 }
